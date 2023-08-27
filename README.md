@@ -1,2 +1,2 @@
-# HitMyBeattles
+# HitMyBeatles
 ELEMENTARY DIFFERENTIAL EQUATIONS &amp; LINEAR ALGEBRA Project 
